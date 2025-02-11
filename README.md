@@ -1,7 +1,7 @@
 # American Express - Default Prediction
 
 ## Overview
-This repository contains notebooks and presentations related to the **American Express - Default Prediction** Kaggle competition. The goal is to build a machine learning model to predict whether a customer will default.
+This repository contains notebooks and presentations related to the **American Express - Default Prediction** Kaggle competition. The goal is to build a machine learning model to predict whether a customer will default. This is a project conducted in the context of an AI course (9/12/2024).
 
 ## Repository Structure
 
